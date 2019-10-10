@@ -8,7 +8,7 @@ public class DuplicateCharacter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-String s="maheee";
+String s="maheeergrgrdgdrd";
 int count=0;
 int n=s.length();
 for(int i=0;i<=n-1;i++)
